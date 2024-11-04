@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Instagram",
+        "users": 7046172,
+        "range": 25.10,
+        "features": ["sharing photos", "chatting"],
+        "post_features": {
+            "posting": true,
+            "sharing": true,
+            "saving": true
+        }
+    },
+    {
+        "name": "Twitter",
+        "users": 4306779,
+        "range": 15.34,
+        "features": ["sharing photos", "chatting"],
+        "post_features": {
+            "posting": true,
+            "sharing": true,
+            "saving": true
+        }
+    },
+    {
+        "name": "Pinterest",
+        "users": 3058808,
+        "range": 17.19,
+        "features": ["sharing photos", "chatting"],
+        "post_features": {
+            "posting": true,
+            "sharing": true,
+            "saving": true
+        }
+    },
+    {
+        "name": "Reddit",
+        "users": 1089350,
+        "range": 3.88,
+        "features": ["sharing photos", "chatting"],
+        "post_features": {
+            "posting": true,
+            "sharing": true,
+            "saving": true
+        }
+    },
+    {
+        "name": "Snapchat",
+        "users": 801345,
+        "range": 17.5,
+        "features": ["sharing photos", "chatting"],
+        "post_features": {
+            "posting": false,
+            "sharing": true,
+            "saving": false
+        }
+    },
+    {
+        "name": "YouTube",
+        "users": 2490701,
+        "range": 21.5,
+        "features": ["whatching videos", "posting videos"],
+        "post_features": {
+            "posting": true,
+            "sharing": true,
+            "saving": true
+        }
+    }
+]

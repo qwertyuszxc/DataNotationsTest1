@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SocialNetworks>
+    <Network type = "social media" popularity = "high">
+        <name platform = 'Facebook' country = "USA">Facebook</name>
+        <FounderYear year = "2004" location = "Cambridge">2004</FounderYear>
+        <Users region_users = 'all world' count = '3070000000'>3.07 Billion</Users>
+        <Funder birth_year = '1984' country = "USA">Mark Zuckerberg</Funder>
+    </Network>
+    <Network type = "social media" popularity = "high">
+        <name platform = 'Instagram' country = "USA">Instagram</name>
+        <FounderYear year = "2010" location = "San Francisco"> 2010</FounderYear>
+        <Users region_users = 'all world' count = '2000000000'> 2 Billion</Users>
+        <Funder birth_year = '1983' country = "USA">Kevin Systrom</Funder>
+    </Network>
+    <Network type = "social media" popularity = "high">
+        <name platform = 'Telegram' country = "Russia">Telegram</name>
+        <FounderYear year = "2013" location = "Moscow">2013</FounderYear>
+        <Users region_users = 'all world' count = '950000000'>950 Million</Users>
+        <Funder birth_year = '1984' country = "Russia">Pavel Durov</Funder>
+    </Network>
+    <Network type = "social media" popularity = "high">
+        <name platform = 'Snapchat' country = "USA">Snapchat</name>
+        <FounderYear year = "2011" location = "Palo Alto">2011</FounderYear>
+        <Users region_users = 'all world' count = '800000000'>800 Million</Users>
+        <Funder birth_year = '1990' country = "USA">Evan Spiegel</Funder>
+    </Network>
+    <Network type = "social media" popularity = "high">
+        <name platform = 'youtube' country = "USA">Youtube</name>
+        <FounderYear year = "2005" location = "San Brun">2005</FounderYear>
+        <Users region_users = 'all world' count = '2490000000'>2.49 Billion</Users>
+        <Funder birth_year = '1979' country = "USA">Jawed Karim</Funder>
+    </Network>
+    <Network type = "social media" popularity = "high">
+        <name platform = 'TikTok' country = "Chine">TikTok</name>
+        <FounderYear year = "2016" location = "Hong Kong">2016</FounderYear>
+        <Users region_users = 'all world' count = '10000000000'>1 Billion</Users>
+        <Funder birth_year = '1983' country = "China">Zhang Yiming</Funder>
+    </Network>
+</SocialNetworks>

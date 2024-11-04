@@ -1,0 +1,14 @@
+{
+    "name": "Facebook",
+    "users": 21034085,
+    "percentage": 74.93,
+    "features": ["sharing photos", "chatting"],
+    "release": "2004",
+    "carruent_status": "active",
+    "owner": "Meta platform",
+    "post_features": {
+        "posting": true,
+        "sharing": true,
+        "saving": false
+    }
+}

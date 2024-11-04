@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SocialNetworks>
+    <Network>
+        <name>Facebook</name>
+        <FounderYear>2004</FounderYear>
+        <Users>3.07 Billion</Users>
+        <Funder>Mark Zuckerberg</Funder>
+    </Network>
+    <Network>
+        <name>Instagram</name>
+        <FounderYear>2010</FounderYear>
+        <Users>2 Billion</Users>
+        <Funder>Kevin Systrom, Mike Krieger</Funder>
+    </Network>
+    <Network>
+        <name>Telegram</name>
+        <FounderYear>2013</FounderYear>
+        <Users>950 Million</Users>
+        <Funder>Pavel Durov</Funder>
+    </Network>
+    <Network>
+        <name>Snapchat</name>
+        <FounderYear>2011</FounderYear>
+        <Users>800 Million</Users>
+        <Funder>Evan Spiegel, Bobby Murphy, Reggie Brown</Funder>
+    </Network>
+    <Network>
+        <name>Youtube</name>
+        <FounderYear>2005</FounderYear>
+        <Users>2.49 Billion</Users>
+        <Funder>Jawed Karim, Chad Hurley, Steve Chen</Funder>
+    </Network>
+    <Network>
+        <name>TikTok</name>
+        <FounderYear>2016</FounderYear>
+        <Users>1 Billion</Users>
+        <Funder>Zhang Yiming</Funder>
+    </Network>
+</SocialNetworks>
